@@ -1,7 +1,7 @@
 {
   "name": "react-native-nitro-template",
   "version": "0.0.1",
-  "description": "A template for Nitro Modules.",
+  "description": "Nitro Location is a fastest Geo Location library for react-native.",
   "main": "lib/index",
   "module": "lib/index",
   "types": "lib/index.d.ts",
@@ -39,14 +39,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrousavy/nitro.git"
+    "url": "git+https://github.com/migueldaipre/react-native-nitro-location.git"
   },
-  "author": "Marc Rousavy <me@mrousavy.com> (https://github.com/mrousavy)",
+  "author": "Miguel Daipré <contato@migueldaipre.dev> (https://github.com/migueldaipre)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrousavy/nitro/issues"
+    "url": "https://github.com/migueldaipre/react-native-nitro-location/issues"
   },
-  "homepage": "https://github.com/mrousavy/nitro#readme",
+  "homepage": "https://github.com/migueldaipre/react-native-nitro-location#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
