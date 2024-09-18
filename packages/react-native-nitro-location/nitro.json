@@ -1,0 +1,12 @@
+{
+  "cxxNamespace": ["nitro_location"],
+  "ios": {
+    "iosModulename": "NitroLocation"
+  },
+  "android": {
+    "androidNamespace": ["nitro_location"],
+    "androidCxxLibName": "NitroLocation"
+  },
+  "autolinking": {},
+  "ignorePaths": ["node_modules"]
+}
