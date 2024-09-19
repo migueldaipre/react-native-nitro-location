@@ -1,5 +1,5 @@
 {
-  "name": "react-native-nitro-template",
+  "name": "react-native-nitro-location",
   "version": "0.0.1",
   "description": "Nitro Location is a fastest Geo Location library for react-native.",
   "main": "lib/index",
