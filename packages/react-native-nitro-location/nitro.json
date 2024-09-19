@@ -7,6 +7,11 @@
     "androidNamespace": ["nitro_location"],
     "androidCxxLibName": "NitroLocation"
   },
-  "autolinking": {},
+  "autolinking": {
+    "LocationFactory": {
+      "swift": "LocationFactory",
+      "kotlin": "LocationFactory"
+    }
+  },
   "ignorePaths": ["node_modules"]
 }
